@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">tic tac toe</string>
+    <string name="heading">Welcome to tic tac toe game</string>
+    <string name="gridofttt">grid</string>
+    <string name="block1">Block1</string>
+    <string name="block2">Block2</string>
+    <string name="block3">Block3</string>
+    <string name="block4">Block4</string>
+    <string name="block5">Block5</string>
+    <string name="block6">Block6</string>
+    <string name="block7">Block7</string>
+    <string name="block8">Block8</string>
+    <string name="block9">Block9</string>
+    <string name="firsttap">X\'s Turn - Tap to play</string>
+
+</resources>
